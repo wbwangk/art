@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A class website for Nashville Software School Cohort 11 graduates. This site is where we show off our work!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://imaip.github.io/" # the base hostname & protocol for your site
-github_username: imaip
+github_username: wbwangk
 permalink: /:title
 
 # Build settings
