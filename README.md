@@ -5,7 +5,13 @@
 </p>
 
 Nashville Software School Cohort 11 strives to be an inclusive and highly cooperative group of software developers. To that end, here we credit every major contributor who helped to improve the website. However, we are proud to say that every member of Cohort 11 has contributed to our website.
-
+## h2h2h2 
+1. 美工
+2. 研发
+3. 实施
+- 项目符号
+* 加重 
+* 
 ## Relevant Tools
 The NSS Cohort 11 website was built using Jekyll and Bootstrap. Materialize CSS was used to for the photo carousel. 
 
